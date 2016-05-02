@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/lfk/node-pwncheck/issues"
   },
-  "homepage": "https://github.com/lfk/node-pwncheck",
+  "homepage": "https://github.com/abbyakx/pwnedModule",
   "dependencies": {
     "https": "^1.0.0"
   },
@@ -39,27 +39,12 @@
     "should": "^6.0.1",
     "validator": "^3.39.0"
   },
-  "gitHead": "c806c6c71a592c2752daa5b6b6edcff809784df5",
-  "_id": "pwncheck@0.0.1",
-  "_shasum": "9d31a0e0cd5a6bc5a7a8c7119117353aec61fef1",
-  "_from": "pwncheck@*",
-  "_npmVersion": "2.5.1",
-  "_nodeVersion": "0.12.0",
-  "_npmUser": {
-    "name": "lfk",
-    "email": "cbsmth@gmail.com"
-  },
-  "dist": {
-    "shasum": "9d31a0e0cd5a6bc5a7a8c7119117353aec61fef1",
-    "tarball": "https://registry.npmjs.org/pwncheck/-/pwncheck-0.0.1.tgz"
-  },
   "maintainers": [
     {
       "name": "lfk",
       "email": "cbsmth@gmail.com"
     }
   ],
-  "_resolved": "https://registry.npmjs.org/pwncheck/-/pwncheck-0.0.1.tgz",
   "readme": "ERROR: No README data found!"
 }
 
