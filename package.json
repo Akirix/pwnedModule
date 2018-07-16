@@ -1,6 +1,6 @@
 {
   "name": "pwnedModule",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A straightforward API wrapper for the Have I Been Pwned? service, which aggregates information from publicly leaked security breaches.",
   "main": "lib/pwncheck.js",
   "directories": {
